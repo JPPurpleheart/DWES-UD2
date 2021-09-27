@@ -12,6 +12,7 @@
         $poblacion = "Sevilla";
         $edad = 25;
         echo "Soy $nombre, tengo $edad años de edad y vivo en $poblacion";
+        echo "<br />";
         printf("Soy %s, tengo %d años de edad y vivo en %s", $nombre, $edad, $poblacion);
     ?>
 </body>
