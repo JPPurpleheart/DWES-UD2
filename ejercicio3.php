@@ -12,9 +12,9 @@
         $cantp = 3;
         $precioc = 25.99;
         $cantc = 2;
-        $desc = 0.08;
+        define("desc", 0.08);
         $total = ($preciop * $cantp) + ($precioc * $cantc);
-        $totald = $total * $desc;
+        $totald = $total - ($total * desc);
         echo "El precio de un pantalón es de $preciop";
         echo "El precio de una camisa es de $precioc";
         printf("El total sin descuento es de %0.2f", $total);
