@@ -17,10 +17,10 @@
         echo is_float($var1);
         echo is_bool($var1);
         echo is_integer($var1);
-        echo settype($var1, "integer");
+        echo (integer) $var1;
         $var2 = "6tres";
         echo $var2;
-        echo settype($var2, "integer");
+        echo (integer) $var2;
     ?>
 </body>
 </html>
