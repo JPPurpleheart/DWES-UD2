@@ -14,6 +14,7 @@
         echo var_export(is_bool($var1)), "</br>";
         echo var_export(is_integer($var1)), "</br>";
         $var1 = 5.72;
+        printf("%.2f", $var1);
         echo var_export(is_float($var1)), "</br>";
         echo var_export(is_bool($var1)), "</br>";
         echo var_export(is_integer($var1)), "</br>";
