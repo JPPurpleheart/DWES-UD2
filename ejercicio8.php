@@ -9,18 +9,18 @@
 <body>
     <?php
         $var1 = "Hola Mundo";
-        echo $var1;
-        echo is_float($var1);
-        echo is_bool($var1);
-        echo is_integer($var1);
+        echo $var1, "</br>";
+        echo is_float($var1), "</br>";
+        echo is_bool($var1), "</br>";
+        echo is_integer($var1), "</br>";
         $var1 = 5.72;
-        echo is_float($var1);
-        echo is_bool($var1);
-        echo is_integer($var1);
-        echo (integer) $var1;
+        echo is_float($var1), "</br>";
+        echo is_bool($var1), "</br>";
+        echo is_integer($var1), "</br>";
+        echo (integer) $var1, "</br>";
         $var2 = "6tres";
-        echo $var2;
-        echo (integer) $var2;
+        echo $var2, "</br>";
+        echo (integer) $var2, "</br>";
     ?>
 </body>
 </html>
