@@ -22,7 +22,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -34,7 +34,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -46,7 +46,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -58,7 +58,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -70,7 +70,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -82,7 +82,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -94,7 +94,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -106,7 +106,7 @@
             $resultadoand = $boolean1 && $boolean2 && $boolean3;
         ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -126,7 +126,7 @@
             $boolean3 = false;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -137,7 +137,7 @@
             $boolean3 = true;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -148,7 +148,7 @@
             $boolean3 = false;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -159,7 +159,7 @@
             $boolean3 = false;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -170,7 +170,7 @@
             $boolean3 = true;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -181,7 +181,7 @@
             $boolean3 = true;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -192,7 +192,7 @@
             $boolean3 = false;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
@@ -203,7 +203,7 @@
             $boolean3 = true;
             $resultadoor = $boolean1 || $boolean2 || $boolean3;        ?>
         <tr>
-            <td><?php var_export($boolean1)?>/td>
+            <td><?php var_export($boolean1)?></td>
             <td><?php var_export($boolean2)?></td>
             <td><?php var_export($boolean3)?></td>
             <td><?php var_export($resultado)?></td>
