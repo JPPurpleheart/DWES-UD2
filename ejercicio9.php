@@ -20,11 +20,11 @@
         echo "El directorio raíz de documentos del servidor en el cual se está ejecutando el script actual, según está definida en el archivo de configuración del servidor.", "</br>";
         echo $_SERVER['REMOTE_ADDR'], "</br>";
         echo "La dirección IP desde la cual está viendo la página actual el usuario.", "</br>";
+        GLOBAL $res;
         function suma($num1)
         {
             STATIC $var1 = 3;
             $var2 = 5;
-            GLOBAL $res;
             $res = $var1 + $var2;
         }
         echo $res, "</br>";
